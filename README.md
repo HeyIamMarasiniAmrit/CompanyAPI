@@ -25,7 +25,7 @@ SQLite (default)
 
 🚀 Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/companyapi.git
+git clone https://github.com/companyapi.git
 cd companyapi
 
 2️⃣ Create Virtual Environment
@@ -55,8 +55,6 @@ GET	/api/companies/{id}/	Retrieve a company
 PUT	/api/companies/{id}/	Update a company
 DELETE	/api/companies/{id}/	Delete a company
 
-📄 License
-This project is open source and available under the MIT License.
 
 🤝 Contributing
 Pull requests are welcome! Feel free to fork and submit a PR.
