@@ -1,7 +1,10 @@
 CompanyAPI 🚀
 A simple REST API built with Python, Django, and Django REST Framework for managing company data. This project serves as a backend foundation for handling CRUD operations on companies.
-test in crud operations 
+crud operations 
 <img width="1047" height="861" alt="Image" src="https://github.com/user-attachments/assets/e94ec3dc-abd2-4a49-9a8a-7aae8ae32ddd" />
+
+testing in postman 
+<img width="1841" height="837" alt="Image" src="https://github.com/user-attachments/assets/1c8f7f78-a792-42ba-8379-bbbb153ce030" />
 
 🔥 Features
 List all companies
