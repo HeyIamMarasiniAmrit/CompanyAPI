@@ -6,7 +6,7 @@ crud operations
 testing in postman 
 <img width="1841" height="837" alt="Image" src="https://github.com/user-attachments/assets/1c8f7f78-a792-42ba-8379-bbbb153ce030" />
 
-create Employee class And test in rude operations
+create Employee class And test in crud operations
 <img width="1017" height="947" alt="Image" src="https://github.com/user-attachments/assets/a034711f-7694-4d43-9bf9-25389517533f" />
 
 🔥 Features
