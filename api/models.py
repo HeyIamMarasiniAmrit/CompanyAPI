@@ -1,7 +1,5 @@
 from django.db import models
 
-# Create your models here.
-
 # crearting a company model
 class Company(models.Model):
     company_id = models.AutoField(primary_key=True)
@@ -15,6 +13,7 @@ class Company(models.Model):
 
     def __str__(self):
         return self.name + '--' + self.location
+        
 #Employee Model
 class Employee(models.Model):
     name = models.CharField(max_length=500)
@@ -23,8 +22,6 @@ class Employee(models.Model):
     phone = models.CharField(max_length=50)
     about = models.TextField()
     position = models.CharField(max_length=50, choices=(
-        ('manager', 'manager'),
-        ('software Developer', 'sd'),
-        ('project leader', 'pl')
+        ('manager', 'manager'), ('software Developer', 'sd'), ('project leader', 'pl')
     ))
     Company = models.ForeignKey(Company,on_delete=models.CASCADE)
