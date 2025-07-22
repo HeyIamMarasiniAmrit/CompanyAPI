@@ -14,6 +14,7 @@ class Company(models.Model):
     def __str__(self):
         return self.name + '--' + self.location
         
+        
 #Employee Model
 class Employee(models.Model):
     name = models.CharField(max_length=500)
