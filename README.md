@@ -14,13 +14,13 @@ List all companies
 
 Retrieve single company details
 
-Create new companies
+Create new companies.
 
-Update existing companies
+Update existing companies.
 
-Delete companies
+Delete companies.
 
-Built with Django REST Framework for easy API development
+Built with Django REST Framework for easy API development.
 
 🛠️ Tech Stack
 Python 
