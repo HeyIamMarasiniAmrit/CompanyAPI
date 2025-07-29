@@ -9,6 +9,8 @@ testing in postman
 create Employee class And test in crud operations
 <img width="1017" height="947" alt="Image" src="https://github.com/user-attachments/assets/a034711f-7694-4d43-9bf9-25389517533f" />
 
+creating comapny emplouees exits or not
+<img width="962" height="891" alt="Image" src="https://github.com/user-attachments/assets/3fe8f405-29d2-4466-8e84-c4aec08edca0" />
 🔥 Features
 List all companies
 
