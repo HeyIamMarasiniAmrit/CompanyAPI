@@ -11,6 +11,9 @@ create Employee class And test in crud operations
 
 creating comapny emplouees exits or not
 <img width="962" height="891" alt="Image" src="https://github.com/user-attachments/assets/3fe8f405-29d2-4466-8e84-c4aec08edca0" />
+
+tasting on postman
+<img width="1443" height="903" alt="Image" src="https://github.com/user-attachments/assets/62e14527-eafb-4388-b0cc-d42bb000d475" />
 🔥 Features
 List all companies
 
