@@ -14,6 +14,9 @@ creating comapny emplouees exits or not
 
 tasting on postman
 <img width="1443" height="903" alt="Image" src="https://github.com/user-attachments/assets/62e14527-eafb-4388-b0cc-d42bb000d475" />
+
+companies exist or not
+<img width="1013" height="685" alt="Image" src="https://github.com/user-attachments/assets/966cdb14-3c99-4de8-93ee-8a7e10f1f85a" />
 🔥 Features
 List all companies
 
