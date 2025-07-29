@@ -17,6 +17,10 @@ tasting on postman
 
 companies exist or not
 <img width="1013" height="685" alt="Image" src="https://github.com/user-attachments/assets/966cdb14-3c99-4de8-93ee-8a7e10f1f85a" />
+
+creating admin site
+
+<img width="930" height="658" alt="Image" src="https://github.com/user-attachments/assets/154e5e50-1051-4d2a-a435-b3fdbd314954" />
 🔥 Features
 List all companies
 
